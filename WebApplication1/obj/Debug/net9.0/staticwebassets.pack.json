@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets/WebApplication1.xowli138bt.bundle.scp.css"
     },
     {
+      "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/biking.jpeg",
+      "PackagePath": "staticwebassets/biking.jpeg"
+    },
+    {
       "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/groupbike.jpeg",
+      "PackagePath": "staticwebassets/groupbike.jpeg"
+    },
+    {
+      "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
       "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js",

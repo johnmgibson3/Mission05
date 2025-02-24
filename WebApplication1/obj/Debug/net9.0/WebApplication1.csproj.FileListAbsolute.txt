@@ -18,7 +18,6 @@
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/scopedcss/bundle/WebApplication1.styles.css
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css
-/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/sfr9826l73-lugek5hnai.gz
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/ixpe6lrf0h-61n19gt1b8.gz
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-fr7q2aak1r.gz
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/19w17uh790-bqjiyaj88i.gz
@@ -96,3 +95,5 @@
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
 /Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/5hwdg3sa8t-nutyv9xn1i.gz
+/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/sfr9826l73-gbjktqh51b.gz
