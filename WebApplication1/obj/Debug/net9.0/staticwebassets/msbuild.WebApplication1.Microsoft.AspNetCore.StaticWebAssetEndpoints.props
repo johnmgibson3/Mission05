@@ -48,18 +48,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r2l0phelmn"},{"Name":"integrity","Value":"sha256-syeW6gixLNBKKz1NPs/wnb5Y9bYLy1ft1AyGbjJCbeQ="},{"Name":"label","Value":"_content/WebApplication1/groupbike.jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"267570"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022syeW6gixLNBKKz1NPs/wnb5Y9bYLy1ft1AyGbjJCbeQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 17:28:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebApplication1/index.h1agu8k18h.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h1agu8k18h"},{"Name":"integrity","Value":"sha256-K\u002BtWlv4kG32ZHWQTLdb8mqIp9i11/giNgPBIr8IrPuk="},{"Name":"label","Value":"_content/WebApplication1/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1977"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022K\u002BtWlv4kG32ZHWQTLdb8mqIp9i11/giNgPBIr8IrPuk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 19:42:25 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebApplication1/index.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-K\u002BtWlv4kG32ZHWQTLdb8mqIp9i11/giNgPBIr8IrPuk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1977"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022K\u002BtWlv4kG32ZHWQTLdb8mqIp9i11/giNgPBIr8IrPuk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 24 Feb 2025 19:42:25 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebApplication1/jquery/AUTHORS.lds6a5bvob.txt">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jquery\AUTHORS.txt'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

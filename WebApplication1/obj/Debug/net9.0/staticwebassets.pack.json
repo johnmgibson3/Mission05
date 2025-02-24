@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets/groupbike.jpeg"
     },
     {
-      "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
-    },
-    {
       "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/jquery/AUTHORS.txt",
       "PackagePath": "staticwebassets/jquery/AUTHORS.txt"
     },
