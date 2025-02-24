@@ -1,4 +1,18 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿$(document).ready(function () {
+    $("#btnsubmit").click(function (event) {
+        event.preventDefault(); // Prevents the form from refreshing the page
 
-// Write your JavaScript code.
+        let from = $("#from").val().trim();
+        let subject = $("#subject").val().trim();
+        let message = $("#message").val().trim();
+
+        if (from === "" || subject === "" || message === "") {
+            alert("Please fill in all fields.");
+            return;
+        }
+
+        alert("From: " + from + "\nSubject: " + subject + "\nMessage: " + message);
+
+        $("#biking").fadeOut("slow");
+    });
+});

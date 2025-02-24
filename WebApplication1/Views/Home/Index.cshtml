@@ -2,9 +2,62 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Mountain Biking</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mountain Biking</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Custom Icon -->
+    <link rel="stylesheet" href="css/site.css">
+    <script src="jquery/dist/jquery.min.js"></script>
+    <script src="lib/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+<header>
+    <h1>Mountain Biking</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">Why I Ride</a></li>
+        </ul>
+    </nav>
+</header>
 
-<img src="WebApplication1/wwwroot/biking.jpeg" alt="yes">
+<main>
+    <h3 style="color: blue;">Adrenaline Junkie</h3>
+    <img src="biking.jpeg" height="300" width="250" alt="Mountain Biking Action" id="biking"/>
+    <p>Mountain biking is an exhilarating outdoor activity that combines adventure, speed, and skill.
+        It allows me to explore nature, improve my fitness, and challenge my limits.</p>
+    <p>Here’s a guessing game about my biking habits:</p>
+    <img src="groupbike.jpeg" height="384" width="512" alt="Group Biking"/>
+
+    <h2>Reasons to Bike:</h2>
+    <ul>
+        <li>A: To stay fit and enjoy the outdoors</li>
+        <li>B: To experience the thrill of technical trails and downhill rides</li>
+    </ul>
+    <h2>Send Mail</h2>
+    <form>
+        <label for="from">From:</label>
+        <input type="text" id="from" placeholder="Your Name" required />
+
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" placeholder="Enter Subject" required />
+
+        <label for="message">Message:</label>
+        <textarea id="message" rows="4" placeholder="Type your message here..." required></textarea>
+
+        <input type="submit" value="Send Message" id="btnsubmit" />
+    </form>
+
+</main>
+
+<footer>
+    <p>&copy; 2025 John Gibson. Built as part of an ASP.NET Core MVC project.</p>
+</footer>
+
+<script src="js/site.js"></script>
+</body>
+</html>
+plication1/wwwroot/biking.jpeg" alt="yes">
