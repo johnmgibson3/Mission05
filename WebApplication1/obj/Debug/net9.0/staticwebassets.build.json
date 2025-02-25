@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nZEgE7I+4rVcuCG5lI4NGR123t/wr3/JkYTfGdna0HU=",
+  "Hash": "I2SQleUMkZqlu88maR4sBdjo2u4MnRRCe37cMwkMD/Q=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1025,12 +1025,12 @@
       "OriginalItemSpec": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/jquery/src/css/var/cssExpand.js"
     },
     {
-      "Identity": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-rur3mr1884.gz",
+      "Identity": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-7s6mb0ro9v.gz",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "js/site#[.{fingerprint=rur3mr1884}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=7s6mb0ro9v}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l8h8snkeit",
-      "Integrity": "u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc=",
+      "Fingerprint": "rkqf34onkh",
+      "Integrity": "tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js"
@@ -4028,6 +4028,27 @@
       "OriginalItemSpec": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/scopedcss/projectbundle/WebApplication1.bundle.scp.css"
     },
     {
+      "Identity": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/bike.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "bike#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1rs89dbpy2",
+      "Integrity": "c88EsxmSayqrj0fhjByqvTji/ifQG3J5D5uIiXSWKfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bike.png"
+    },
+    {
       "Identity": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/biking.jpeg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -6751,8 +6772,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rur3mr1884",
-      "Integrity": "PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY=",
+      "Fingerprint": "7s6mb0ro9v",
+      "Integrity": "12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
@@ -8019,6 +8040,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "bike.1rs89dbpy2.png",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/bike.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c88EsxmSayqrj0fhjByqvTji/ifQG3J5D5uIiXSWKfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1rs89dbpy2"
+        },
+        {
+          "Name": "label",
+          "Value": "bike.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c88EsxmSayqrj0fhjByqvTji/ifQG3J5D5uIiXSWKfI="
+        }
+      ]
+    },
+    {
+      "Route": "bike.png",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/bike.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c88EsxmSayqrj0fhjByqvTji/ifQG3J5D5uIiXSWKfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c88EsxmSayqrj0fhjByqvTji/ifQG3J5D5uIiXSWKfI="
+        }
+      ]
+    },
     {
       "Route": "biking.jpeg",
       "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/biking.jpeg",
@@ -46030,13 +46133,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-rur3mr1884.gz",
+      "Route": "js/site.7s6mb0ro9v.js",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-7s6mb0ro9v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003236245955"
+          "Quality": "0.003355704698"
         }
       ],
       "ResponseHeaders": [
@@ -46046,19 +46149,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "308"
+          "Value": "297"
         },
         {
           "Name": "ETag",
-          "Value": "\"u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc=\""
+          "Value": "\"tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -46074,18 +46177,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY=\""
+          "Value": "W/\"12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7s6mb0ro9v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY="
+          "Value": "sha256-12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.7s6mb0ro9v.js",
       "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -46095,7 +46206,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "581"
+          "Value": "494"
         },
         {
           "Name": "Content-Type",
@@ -46103,121 +46214,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY=\""
+          "Value": "\"12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-rur3mr1884.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "308"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.rur3mr1884.js",
-      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-rur3mr1884.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003236245955"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "308"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rur3mr1884"
+          "Value": "7s6mb0ro9v"
         },
         {
           "Name": "label",
@@ -46225,13 +46236,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY="
+          "Value": "sha256-12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA="
         }
       ]
     },
     {
-      "Route": "js/site.rur3mr1884.js",
-      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js",
+      "Route": "js/site.7s6mb0ro9v.js.gz",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-7s6mb0ro9v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -46240,7 +46251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "581"
+          "Value": "297"
         },
         {
           "Name": "Content-Type",
@@ -46248,56 +46259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY=\""
+          "Value": "\"tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rur3mr1884"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PR5xeuiPPLKpZfMVWygp/zuR0t9e4Gi8KQ1mRPDPOZY="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.rur3mr1884.js.gz",
-      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-rur3mr1884.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "308"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 19:39:50 GMT"
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -46315,7 +46281,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rur3mr1884"
+          "Value": "7s6mb0ro9v"
         },
         {
           "Name": "label",
@@ -46323,7 +46289,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u95ca8jOO2nI+YH5+DQCywlT4nw5yMYQd0QKoAlLqrc="
+          "Value": "sha256-tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-7s6mb0ro9v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003355704698"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-12ZbWtpEOvst5rbOifMvJlK2ccG/oWIZjiqF9L6m5TA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/obj/Debug/net9.0/compressed/9cuoy2kfs0-7s6mb0ro9v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 01:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRgkURGPlGbZ0cRD9uURP/W93245kTIqCqzL0FM/XaE="
         }
       ]
     },

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/WebApplication1.xowli138bt.bundle.scp.css"
     },
     {
+      "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/bike.png",
+      "PackagePath": "staticwebassets/bike.png"
+    },
+    {
       "Id": "/Users/johngibson/Documents/ISCoreWinter/IS413/413program/homework/Mission05/WebApplication1/wwwroot/biking.jpeg",
       "PackagePath": "staticwebassets/biking.jpeg"
     },

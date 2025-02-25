@@ -1,18 +1,15 @@
 ﻿$(document).ready(function () {
-    $("#btnsubmit").click(function (event) {
-        event.preventDefault(); // Prevents the form from refreshing the page
+    $("#calculate").click(function () {
+        let hours = $("#hours").val();
+        let rate = parseFloat($("#rate").val());
 
-        let from = $("#from").val().trim();
-        let subject = $("#subject").val().trim();
-        let message = $("#message").val().trim();
-
-        if (from === "" || subject === "" || message === "") {
-            alert("Please fill in all fields.");
+        // Validation: Ensure input is a positive number
+        if (hours === "" || isNaN(hours) || hours <= 0) {
+            alert("Please enter a valid number of hours.");
             return;
         }
 
-        alert("From: " + from + "\nSubject: " + subject + "\nMessage: " + message);
-
-        $("#biking").fadeOut("slow");
+        let total = hours * rate;
+        $("#total").val(total.toFixed(2)); // Show total with 2 decimal places
     });
 });
